@@ -3,5 +3,5 @@
 <p align="center">I'm unsure of what field I am interested in but I enjoy coding and hope to make some cool things to show here.</p>
 
 <p align="center">
-  <a href="siren.codes">siren.codes (currently not up!)</a>
+  <a href="siren.codes">siren.codes now up! (nothing special there 😅)</a>
 </p>
